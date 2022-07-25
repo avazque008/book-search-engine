@@ -1,18 +1,21 @@
-# Google Books Search [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Book Search Engine [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-A web application that allows users to sign up or log in to create posts, write comments and update their existing posts. All posts created by all users will be displayed in a home page where anyone who visits the website can see them. This web application utilizes a database as well as other npm modules.
+A web application that allows users to sign up or log in to search for books and save them to their list of saved books. A book search will provide a title, image, the name of the author/authors, a description, and a link to review it on the official Google Books site. 
 
 #### Built With
 * HTML
 * CSS
 * Javascript
 * Node.js
+* React
+* GraphQL
+* MongoDB
 * npm Modules :
     * Express.js
-    * Sequelize
-    * Express Handlebars
+    * Mongoose
+    * Apollo GraphQL
 
 ## Table of Contents
 
@@ -23,7 +26,7 @@ A web application that allows users to sign up or log in to create posts, write 
  
 ## Usage
 
- As an web application the Tech Blog must be used through a web browser and visiting https://av-googlebooks.herokuapp.com/ .
+ As an web application the Book Search Engine must be used through a web browser and visiting https://av-googlebooks.herokuapp.com/ .
 
 ## License
 
