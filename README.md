@@ -4,7 +4,7 @@
 
 A web application that allows users to sign up or log in to search for books and save them to their list of saved books. A book search will provide a title, image, the name of the author/authors, a description, and a link to review it on the official Google Books site.
 
-![GIF]()
+![GIF](https://github.com/avazque008/book-search-engine/blob/main/client/src/assets/images/demo.gif)
 
 #### Built With
 * HTML
